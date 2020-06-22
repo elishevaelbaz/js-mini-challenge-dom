@@ -24,4 +24,4 @@ PLAYERS.forEach(function(player){
 
 /***** Deliverable 4 *****/
 
-playerContainer.querySelector("[data-number='7']").remove(0)
+playerContainer.querySelector("[data-number='7']").remove()

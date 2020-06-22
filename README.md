@@ -78,6 +78,6 @@ Hint: You can use `querySelector` with [CSS Attribute Selectors](https://develop
 
 **YOUR NOTES**
 ```javascript
-playerContainer.querySelector("[data-number='7']").remove(0)
+playerContainer.querySelector("[data-number='7']").remove()
 
 ```
